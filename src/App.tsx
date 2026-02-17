@@ -7,6 +7,7 @@ function App() {
       <p>Ad Soyad: Amer Zakret</p>
       <p>No: 240541625</p>
       <h1>V2</h1>
+      <h1>V3</h1>
     </div>
   )
 }
