@@ -49,3 +49,5 @@ web-lab-hello/
 └── vite.config.ts
 
 <img width="680" height="854" alt="image" src="https://github.com/user-attachments/assets/3d7b6210-ce6d-43cf-bc98-29ce2d168c7f" />
+
+## Lighthouse Score = 96
